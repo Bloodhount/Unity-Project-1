@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a3802fb181907e47b625b4c4b318605
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _rbPl: {instanceID: 0}
+  - _playerBullet: {fileID: 2750373025641142672, guid: 87ebc2e0c966a78439527f094ec7e90e, type: 3}
+  - _plBulStartPos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
